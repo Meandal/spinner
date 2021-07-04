@@ -1,0 +1,13 @@
+
+body{
+    text-align: center;
+}
+p{color: rgb(0, 128, 0);
+    width: 80%;
+    text-align:center;
+    margin: 2rem;
+    bottom: 2rem;
+}
+p:hover{
+text-transform: uppercase;
+}

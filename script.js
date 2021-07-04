@@ -1,0 +1,24 @@
+alert('SPİNNERS.web erişim istiyor')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
